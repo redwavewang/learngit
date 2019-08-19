@@ -1,1 +1,2 @@
-git is a version
+git is a version contral software
+git is a free software.
